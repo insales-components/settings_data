@@ -1,0 +1,9 @@
+{
+  "name": "settings_data",
+  "version": "1.0.0",
+  "description": "Конфигурация темы",
+  "author": "LiquidHub.ru",
+  "type": "config",
+  "homepage": "https://github.com/insales-components/settings_data",
+  "dependencies": {}
+}
